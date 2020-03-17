@@ -1,4 +1,4 @@
-BACKEND GOBARBER
+#BACKEND GOBARBER#
 
 Para rodar o projeto basta clonar o repositório e rodar o comando yarn para instalar as dependências.
 
@@ -371,11 +371,5 @@ No arquivo app.js importamos o import 'dotenv/config'
 Após isso modificamos todos os arquivos inserindo as variaveis criadas no .env
 
 Por ultimo, criamos o arquivo .env.example removendo as informações "sensiveis".
-
-
-git remote add origin https://github.com/tg-developer/backend-gobarber.git
-
-
-$ git remote set-url origin https://github.com/tg-developer/backend-gobarber.git
 
 
