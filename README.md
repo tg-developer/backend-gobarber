@@ -1,4 +1,4 @@
-<h2> BACKEND GOBARBER <h2>
+BACKEND GOBARBER
 
 Para rodar o projeto basta clonar o repositório e rodar o comando yarn para instalar as dependências.
 
