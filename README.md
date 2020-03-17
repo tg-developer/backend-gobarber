@@ -1,3 +1,5 @@
+#BACKEND GOBARBER
+
 Para rodar o projeto basta clonar o repositório e rodar o comando yarn para instalar as dependências.
 
 Em seguida rodamos o comando yarn dev + yarn queue
